@@ -1,0 +1,80 @@
+Blockchain Developer
+
+Name: Daniel Ramos
+Date of Birth: September 18, 1998
+Nationality: Filipino
+
+Professional Summary
+
+Innovative and detail-oriented Blockchain Developer with 8 years of professional experience in designing, building, and deploying decentralized applications (dApps), smart contracts, and blockchain protocols. Skilled in a broad spectrum of programming languages, I excel at creating secure, scalable, and elegant blockchain solutions that meet modern business and enterprise needs.
+
+With hands-on expertise in Ethereum, Solana, Polkadot, Hyperledger, and Bitcoin-based systems, I have successfully delivered end-to-end blockchain projects across industries including finance, supply chain, gaming, and decentralized finance (DeFi). Clients trust me because I combine deep technical knowledge with a visionary approach, ensuring results that are reliable, future-proof, and impactful.
+
+Core Skills
+
+Blockchain Development: Smart contracts (Solidity, Vyper, Rust), consensus algorithms, on-chain/off-chain integration.
+
+Languages: Solidity, Vyper, Rust, Go, C++, C, JavaScript, TypeScript, Python, Java, Move (Aptos/Sui), WebAssembly (WASM), Haskell, Assembly, Michelson (Tezos), Cadence (Flow), HTML5, CSS3, PHP, Ruby, Shell Scripting, SQL.
+
+Frameworks & Tools: Hardhat, Truffle, Remix, Web3.js, Ethers.js, Substrate, Hyperledger Fabric.
+
+dApp Development: Token creation (ERC-20, ERC-721, ERC-1155), DeFi protocols, DAO governance models.
+
+Systems Development: Blockchain node implementation, distributed ledgers, performance optimization.
+
+Other Expertise: Cryptography, smart contract security auditing, cross-chain bridges, API development.
+
+Professional Experience
+
+Blockchain Developer | Freelance & Consulting
+2017 – Present
+
+Designed and deployed secure smart contracts on Ethereum and EVM-compatible networks, managing assets worth millions in DeFi and NFT projects.
+
+Built a cross-chain asset transfer system using Rust and Go, enabling seamless interoperability between Polkadot, Ethereum, and Solana.
+
+Contributed to Bitcoin Core-based protocol extensions in C++ to improve transaction throughput and efficiency.
+
+Developed Hyperledger Fabric solutions for supply chain transparency and enterprise-grade blockchain use cases.
+
+Created NFT marketplaces with advanced royalty mechanisms and gas-efficient minting strategies.
+
+Engineered decentralized financial products (staking pools, lending/borrowing protocols, liquidity mining) with high security standards.
+
+Provided security audits for smart contracts, preventing vulnerabilities such as reentrancy, overflow/underflow, and flash loan exploits.
+
+Guided startups in launching tokenized ecosystems, from concept design to mainnet deployment.
+
+Highlighted Projects
+
+DeFi Platform: Built a decentralized lending/borrowing protocol with advanced liquidation logic on Ethereum, integrated with stablecoin collateral.
+
+Cross-Chain Bridge: Engineered a bridge using Rust and Go, enabling token swaps between Solana and EVM chains with minimal latency.
+
+NFT Marketplace: Developed an elegant, high-performance marketplace with ERC-721 and ERC-1155 standards, including batch minting and auction features.
+
+Enterprise Blockchain (Hyperledger): Created a secure system for pharmaceutical supply chain tracking to combat counterfeit medicine.
+
+Blockchain Game (Play-to-Earn): Designed smart contracts for asset ownership, reward distribution, and tokenomics integration.
+
+Education
+
+Bachelor’s Degree in Computer Science / Software Engineering
+Ifugao State University (Lamut) 2012-2017
+
+Strengths
+
+8 years of blockchain and software development expertise.
+
+Mastery of multiple programming languages, adapting to any project requirements.
+
+Proven track record of delivering secure, scalable, and innovative blockchain solutions.
+
+Trusted by clients for professionalism, technical depth, and elegant problem-solving.
+
+Languages
+
+English – Fluent
+
+Filipino – Native
+
